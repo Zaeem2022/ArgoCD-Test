@@ -3,7 +3,7 @@ nSpace: test1
 
 
 image:
-  nginx: nginx:alpine
+  nginx: nginx:latest
 
 # NUMBER OF REPLICAS
 replica:
